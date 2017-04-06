@@ -1,0 +1,23 @@
+{
+  "name": "jam-on",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "^15.0.2",
+    "react": "^15.4.2",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-15.0.0.tar.gz",
+    "react-native-animatable": "^1.1.1",
+    "react-native-drawer-layout": "^1.2.0",
+    "react-native-elements": "^0.10.3",
+    "react-native-elevated-view": "0.0.3",
+    "react-native-foldview": "^1.1.1",
+    "react-native-meteor": "^1.0.3",
+    "react-native-modal": "^2.2.0",
+    "react-native-navbar": "^1.7.1",
+    "react-native-swipe-cards": "^0.1.0",
+    "react-native-web": "0.0.80"
+  }
+}
